@@ -10,7 +10,7 @@
         <delete_access>false</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
-        <label>REAL NeedItTask</label>
+        <label>NeedItTask</label>
         <live_feed_enabled>false</live_feed_enabled>
         <name>x_58872_needit_real_needittask</name>
         <number_ref display_value="NITASK">0f9d0ba5db532300ada19c66db961929</number_ref>
@@ -23,14 +23,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-01-29 14:49:24</sys_created_on>
         <sys_id>f56d47a5db532300ada19c66db9619f3</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>REAL NeedItTask</sys_name>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>NeedItTask</sys_name>
         <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
         <sys_update_name>sys_db_object_f56d47a5db532300ada19c66db9619f3</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-01-29 14:49:25</sys_updated_on>
+        <sys_updated_on>2019-02-01 09:07:34</sys_updated_on>
         <update_access>true</update_access>
         <user_role display_value="x_58872_needit.real_needittask_user" name="x_58872_needit.real_needittask_user">fa9dc7a5db532300ada19c66db9619d0</user_role>
         <ws_access>true</ws_access>
